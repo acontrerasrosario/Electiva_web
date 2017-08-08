@@ -1,0 +1,21 @@
+MIMELFIS GRULLON
+
+mimelfis@gmail.com
+
+* prototipos (pantallas-min 5)
+* formularios
+* listados
+* pagina principal
+* pagina integrantes del grupo (about us)
+* multimedia/galeria (fotos/videos/radio)
+* responsive (funcional en chrome)
+* documento de requerimientos funcionales
+* uso de controles HTML
+* CSS tricks
+* Javascript
+
+
+*HTML
+** Client Side vs. Server Side
+** Etiquetas basicas HTML
+** WEB - WEB Responsive - WEB Mobile
